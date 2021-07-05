@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = estelle.dourthe40@orange.fr
+	name = estelle dourthe
